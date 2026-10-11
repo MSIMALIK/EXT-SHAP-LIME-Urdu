@@ -235,5 +235,4 @@ This repository is licensed under the **MIT License**. See [LICENSE](LICENSE) fo
 **Muhammad Shahid Iqbal Malik**  
 GitHub: [@MSIMALIK](https://github.com/MSIMALIK)
 
-**Rameesha Zia** — Listed alongside Dr. Shahid Iqbal Malik in the LIME package metadata.
 
